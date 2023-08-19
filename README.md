@@ -48,6 +48,8 @@ Flutter Weather App using OpenWeatherMap API and Bloc Pattern.
 
 -   [Flutter](https://flutter.dev/docs/get-started/install)
 -   [Android Studio](https://developer.android.com/studio) or [Xcode](https://developer.apple.com/xcode/)
+-   [Firebase](https://firebase.google.com/) for authentication
+-   [OpenWeatherMap](https://openweathermap.org/) API key
 
 ### Building and running
 
@@ -71,13 +73,17 @@ cd weather
 const String openWeatherMapApiKey = {YOUR_API_KEY};
 ```
 
-4. Install dependencies
+4. Create a Flutter project on Firebase console and follow the instructions to add Firebase to your Flutter app.
+
+5. Enable Email/Password sign-in method on Firebase console.
+
+6. Install dependencies
 
 ```bash
 dart pub get
 ```
 
-5. Run the app
+7. Run the app
 
 ```bash
 flutter run
