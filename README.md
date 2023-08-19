@@ -65,13 +65,19 @@ git clone https://github.com/shokhrukhbekyuldoshev/weather.git
 cd weather
 ```
 
-3. Install dependencies
+3. Add your OpenWeatherMap API key to the `lib/secrets.dart` file.
+
+```dart
+const String openWeatherMapApiKey = {YOUR_API_KEY};
+```
+
+4. Install dependencies
 
 ```bash
 dart pub get
 ```
 
-4. Run the app
+5. Run the app
 
 ```bash
 flutter run
