@@ -146,4 +146,3 @@ This project is [MIT](LICENSE) licensed.
 **Shokhrukhbek Yuldoshev**
 
 -   Github: [@ShokhrukhbekYuldoshev](https://github.com/ShokhrukhbekYuldoshev)
--   Email: [@shokhrukhbekdev@gmail.com](mailto:shokhrukhbekdev@gmail.com)
