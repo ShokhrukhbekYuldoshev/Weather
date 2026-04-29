@@ -8,7 +8,7 @@
 PRODUCT_NAME = weather_service
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.shokhrukhbek.weatherService
+PRODUCT_BUNDLE_IDENTIFIER = com.sy.weatherService
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2023 com.shokhrukhbek. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2026 com.sy. All rights reserved.

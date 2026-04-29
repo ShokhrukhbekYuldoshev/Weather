@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 
-// https://api.openweathermap.org/data/2.5/forecast?units=metric&lang=ru&lat=59.9096324&lon=30.522676&appid={openWeatherMapApiKey}
+// https://api.openweathermap.org/data/2.5/forecast?units=metric&lat=59.9096324&lon=30.522676&appid={openWeatherMapApiKey}
 class DioService {
   Dio dio = Dio();
 
